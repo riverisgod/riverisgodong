@@ -16,7 +16,7 @@ if (tabData.icon) {
 }
 
 var settingsDefaultTab = {
-  title: "Settings | 3kh0",
+  title: "Settings | RivStoner",
   icon: "./images/logo.png",
 };
 
